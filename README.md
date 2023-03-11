@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Bienvenidos a mi perfil de github.
+Bienvenidos a mi perfil de GitHub.
+
+Soy Alberto Cámara Ortiz, estudiante de la Universidad de Granada(UGR).
